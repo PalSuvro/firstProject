@@ -1,0 +1,19 @@
+body{background-color: silver; color: blue;}
+h1{color: pink;}
+#first{background-color: aqua;}
+#second{background-color: blueviolet;}
+.first{background: red;}
+.first-section{
+    color: blue;
+    background-color: pink;
+}
+.second-section{
+    color: red;
+}
+#section{
+    color: blanchedalmond;
+    background-color: brown;
+}
+#test{
+    color: blueviolet;
+}
